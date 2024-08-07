@@ -50,7 +50,7 @@ social:
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  bing: F3996E0CD80185C0333A1A9330FF241F # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -76,7 +76,7 @@ analytics:
 
 # Pageviews settings
 pageviews:
-  provider: https://jerrycyx.goatcounter.com/ # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
